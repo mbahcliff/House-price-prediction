@@ -19,6 +19,11 @@ The sign of regression coefficient tells you whether there's positive or negativ
 R-squared is always between 0-100%]
 # Risidualm analysis of trained data
 My R2_Score is above 50% which makes it good
+## Error term
+![error term](https://user-images.githubusercontent.com/63025220/93920017-902b8f80-fcdc-11ea-99dc-d2c0ec94c578.PNG)
+Error term is normally distributed, it indicates the assumption on the linear model is fulfilled
+## Making prediction on final score
+
 
 
 
