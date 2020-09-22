@@ -13,4 +13,6 @@ The dataset is obtained from Kaggle. It includes just over 414 rows and 8 column
 sklearn.model_selection is the library use to split our data into training and testing dataset. 
 ## 80% will be traing data and 20% testing data
 # OLS regression results
+![olsregression](https://user-images.githubusercontent.com/63025220/93915840-9880cc00-fcd6-11ea-8566-de75dd47278b.PNG)
+
 
