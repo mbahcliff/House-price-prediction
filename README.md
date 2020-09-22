@@ -24,10 +24,14 @@ My R2_Score is above 50% which makes it good
 Error term is normally distributed, it indicates the assumption on the linear model is fulfilled
 ## Making prediction on final score
 The table shows the actual value and the predicted value of the test values of y
+
 ![Capture1](https://user-images.githubusercontent.com/63025220/93920765-9ff7a380-fcdd-11ea-92e7-b17f3fb4cbd2.PNG)
-The graph shows the plot of the actual vs the predicted values of y-test
 
+The graph below shows the plot of the actual vs the predicted values of y-test
+![Capture2](https://user-images.githubusercontent.com/63025220/93921380-7d19bf00-fcde-11ea-927b-6799cff97a3d.PNG)
 
+# Evaluating model performance
+## MAE = 5.4183854395275235 MSE = 49.41158174311 RMSE = 7.029337219333698
 
 
 
