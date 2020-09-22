@@ -11,4 +11,6 @@ I am required to model the price of houses of a unit area with the available ind
 The dataset is obtained from Kaggle. It includes just over 414 rows and 8 columns. It has independent features such such house age, distance to the nearest MRT station, numbetr of convenience stores, latitude and longitude. All of these features play a very important roll in our prediction of of target(y).
 # Data splitting to training and testing model
 sklearn.model_selection is the library use to split our data into training and testing dataset. 
-## 80% will be traing data and 20% test data
+## 80% will be traing data and 20% testing data
+# OLS regression results
+
