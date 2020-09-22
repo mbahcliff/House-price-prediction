@@ -14,5 +14,12 @@ sklearn.model_selection is the library use to split our data into training and t
 ## 80% will be traing data and 20% testing data
 # OLS regression results
 ![olsregression](https://user-images.githubusercontent.com/63025220/93915840-9880cc00-fcd6-11ea-8566-de75dd47278b.PNG)
+The p value of all the features is 00.00 and less than 0.05 which mean all the variables or features are important
+The sign of regression coefficient tells you whether there's positive or negative correlation between each independent variable and the dependent variable. Positive coefficient indicates as the value of the independent variable increases, the mean of the dependent varaiable also incresases and a negative cofficient indicates as the the value of the independent variable increases, the value of the dependent varaiable decreases
+R-squared is always between 0-100%]
+# Risidualm analysis of trained data
+My R2_Score is above 50% which makes it good
+
+
 
 
