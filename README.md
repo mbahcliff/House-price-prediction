@@ -1,6 +1,6 @@
 # Real Estate Price Prediction
 ## Problem Statement
-Consider a real estate company that has a dataset containing the house prices of unit area in the state of Maryland, USA. It wishes to use the data to optimize the prices based on important factors such housing age, distance to the nearest MRT station, number of convenience stores, latitude and longitude
+Consider a real estate company that has a dataset containing the house prices of unit. They want to use the data to optimize the prices based on important factors such housing age, distance to the nearest MRT station, number of convenience stores, latitude and longitude
 ## Essentially, the company wants —
 •	To identify the variables affecting house prices per unit area, 
 •	To create a linear model that quantitatively relates house prices with variables such as house age, distance to the nearest MRT station etc
@@ -17,7 +17,7 @@ sklearn.model_selection is the library use to split our data into training and t
 The p value of all the features is 00.00 and less than 0.05 which mean all the variables or features are important
 The sign of regression coefficient tells you whether there's positive or negative correlation between each independent variable and the dependent variable. Positive coefficient indicates as the value of the independent variable increases, the mean of the dependent varaiable also incresases and a negative cofficient indicates as the the value of the independent variable increases, the value of the dependent varaiable decreases
 R-squared is always between 0-100%]
-# Risidualm analysis of trained data
+# Risidual analysis of trained data
 My R2_Score is above 50% which makes it good
 ## Error term
 ![error term](https://user-images.githubusercontent.com/63025220/93920017-902b8f80-fcdc-11ea-99dc-d2c0ec94c578.PNG)
