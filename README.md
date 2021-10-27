@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Consider a real estate company that has a dataset containing the prices of different houses  of unit area. The company intends to use this data to creat a system that helps predict the price of housing based on the independent varaisables which includes: housing age, distance to the nearest MRT station, number of convenience stores, latitude and longitude
+Consider a real estate company that has a dataset containing the prices of different houses  of unit area. The company intends to use this data to creat a system that helps predict the price of housing based on the independent variables which includes: housing age, distance to the nearest MRT station, number of convenience stores, latitude and longitude
 
 ## Essentially, the company wants —
 
