@@ -3,7 +3,7 @@
 ## Introduction
 
 Consider a real estate company that wants to predict the prices of different houses  of unit area using some indepent features. The company intends to use this data to creat a system that helps predict the price of housing based on the independent variables which includes: housing age, distance to the nearest MRT station, number of convenience stores, latitude and longitude
-A predictive algorithm such as linear regression can be used to 
+A simple predictive machine learning algorithm such as linear regression can be used to build the model.
 
 ## Essentially, the company wants —
 
