@@ -1,4 +1,4 @@
-# Real Estate Price Prediction
+# House Price Prediction
 
 ## Introduction
 
